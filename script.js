@@ -15,15 +15,24 @@ log(`Test!`);
 
 
 document.getElementById('search').addEventListener('input', (e) => {
-  const query = e.target.value.toLowerCase();
-  const results = products.filter(p => p.name.toLowerCase().startsWith(query));
-
-    const list = document.getElementById('results');
-    
-      if (results.length === 0) {
-    list.innerHTML = '<p>Nu s-au găsit rezultate</p>';
+  const query = e.target.value.toLowerCase().trim();
+  const list = document.getElementById('results');
+    //case empty input
+    if (query === "") {
+    list.innerHTML = "<p>Introduceți un termen de căutare !</p>";
     return;
   }
+
+    //case show all product/price
+    const results = query === "toate"
+    ? products
+    : products.filter(p => p.name.toLowerCase().includes(query));
+  
+    if (results.length === 0) {
+    list.innerHTML = '<p>Oops ! Nu s-au găsit rezultate !</p>';
+    return;
+  }
+  
 
     list.innerHTML = '';
     

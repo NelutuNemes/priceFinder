@@ -116,9 +116,9 @@ export const products =
     { id: "P094", name: "OSB 3 ", type: "  Grosime: 12mm   (1.25 x 2.5m / buc) ", price: 75.00 },
 
     { id: "P095", name: "LAMBRIU ", type: "  Grosime: 1.2mm/4ml   (pachet) ", price: 180.00 },
-    { id: "P096", name: "LAMBRIU ", type: "  Grosime: 1.8mm/4ml   (buc) ", price: 0.00 },
-    { id: "P097", name: "LAMBRIU ", type: "  Grosime: 1.8mm/3ml   (buc) ", price: 0.00 },
-    { id: "P098", name: "DUSUMEA ", type: "  Grosime: 2.0mm/4ml   (buc) ", price: 0.00 },
+    { id: "P096", name: "LAMBRIU ", type: "  Grosime: 1.8mm/4ml   (buc) ", price: 25.00 },
+    { id: "P097", name: "LAMBRIU ", type: "  Grosime: 1.8mm/3ml   (buc) ", price: 37.00 },
+    { id: "P098", name: "DUSUMEA ", type: "  Grosime: 2.0mm/4ml   (buc) ", price: 50.00 },
 
     { id: "P099", name: "SINDRILA BITUMINOASA ", type: "  Solzi rosu (pachet) ", price: 100.00 },
 
@@ -157,6 +157,96 @@ export const products =
     { id: "P122", name: "POLISTIREN ", type: "EPS 50 - bax ", price: 55.00 },
     { id: "P123", name: "POLISTIREN ", type: "EPS 80 - bax ", price: 65.00 },
     { id: "P124", name: "POLISTIREN ", type: "EPS 100 - bax ", price: 75.00 },
+
+    { id: "P125", name: "TIGLA ", type: "FRANCIA - (BUC)", price: 6.00 },
+    { id: "P126", name: "TIGLA ", type: "FRANCIA - (PALET,240 buc)", price: 1440.00 },
+    { id: "P127", name: "TIGLA ", type: "VALAHIA - (BUC)", price: 4.50 },
+    { id: "P128", name: "TIGLA ", type: "VALAHIA - (PALET,360 buc)", price: 1620.00 },
+    { id: "P129", name: "TIGLA ", type: "TONDACH-SOLZI - (BUC)", price: 5.00 },
+    { id: "P130", name: "TIGLA ", type: "TONDACH-SOLZI - (PALET,420 buc)", price: 2100.00 },
+    { id: "P131", name: "COAMA ", type: "LEIER CLASICA F - (BUC)", price: 22.00 },
+    { id: "P132", name: "COAMA ", type: "LEIER MARE R - (BUC)", price: 23.00 },
+    { id: "P133", name: "RAMIFICATIE COAMA 3APE ", type: "LEIER- (BUC)", price: 120.00 },
+    { id: "P134", name: "LATERALA ST / DR ", type: "LEIER- (BUC)", price: 27.00 },
+    { id: "P135", name: "ELEMENT INCHIDERE COAMA", type: "LEIER- (BUC)", price: 10.00 },
+
+    { id: "P136", name: "IPSOS ", type: "PENTRU COSTRUCTII (SAC/5KG)", price: 15.00 },
+
+    { id: "P137", name: "NISIP ", type: "GALBEN ASPRU (0-4) - ( m&sup3; )", price: 150.00 },
+    { id: "P138", name: "NISIP ", type: "NEGRU FIN (0-4) - ( m&sup3; )", price: 160.00 },
+    { id: "P139", name: "SORT 2 ", type: "MARGARITAR (4-8) - ( m&sup3; )", price: 150.00 },
+    { id: "P140", name: "SORT 3 ", type: "SORT (8-16)- ( m&sup3; )", price: 150.00 },
+    { id: "P141", name: "SUBGABARIT FIN", type: "SUBGABARIT - ( m&sup3; )", price: 140.00 },
+    { id: "P142", name: "SUBGABARIT MARE", type: "SUBGABARIT- ( m&sup3; )", price: 140.00 },
+    { id: "P143", name: "PIATRA SPARTA", type: "HOLCIM - ( m&sup3; )", price: 140.00 },
+    { id: "P144", name: "PIATRA SPARTA", type: "ALBASTRU-MUNTE- ( m&sup3; )", price: 200.00 },
+
+    { id: "P145", name: "MOSAIC MARMURA", type: "MOSAIC - ( SAC/50Kg )", price: 40.00 },
+
+    { id: "P146", name: "CARTON ASFALT", type: "CATRAN- ( SUL )", price: 70.00 },
+    { id: "P143", name: "MEMBRANA BITUMINOASA", type: "HIDROIZOLATIE - ( SUL )", price: 150.00 },
+
+    { id: "P144", name: "CAPAC STALP", type: "LEIER- ( 30x30cm - buc )", price: 35.00 },
+    { id: "P145", name: "CAPAC STALP", type: "LEIER- ( 40x40cm - buc )", price: 45.00 },
+    { id: "P144", name: "CAPAC ZID", type: "LEIER- ( 25x49cm - buc )", price: 30.00 },
+    { id: "P145", name: "CAPAC ZID", type: "LEIER- ( 30x49cm - buc )", price: 35.00 },
+
+    { id: "P146", name: "TEAVA ", type: "RECTANGULARA- ( 3x6cm - buc -6ml )", price: 120.00 },
+
+    { id: "P147", name: "BUIANDRUGI ", type: "CERAMICI ARMATI- (ml )", price: 30.00 },
+    
+    { id: "P148", name: "CUIE ", type: "CONSTRUCTII- (Kg )", price: 10.00 },
+    { id: "P149", name: "ELETROZI ", type: "SUDURA (Kg )", price: 15.00 },
+
+    { id: "P150", name: "VATA MINERALA ", type: "TERMOIZOLATIE-Cal I (SUL )", price: 100.00 },
+    { id: "P151", name: "VATA MINERALA ", type: "TERMOIZOLATIE-Cal II (SUL )", price: 50.00 },
+
+    { id: "P152", name: "RIGOLE ", type: "LOCO (BUC - 0.5 ml)", price: 16.00 },
+    { id: "P153", name: "RIGOLE ", type: "LEIER (BUC - 0.5 ml)", price: 20.00 },
+    { id: "P154", name: "CAPAC RIGOLA ", type: "RIGOLA TRAFIC GREU (BUC)", price: 80.00 },
+
+    { id: "P155", name: "FOLIE  ", type: " NYLON, ( ml)", price: 10.00 },
+    { id: "P156", name: "FOLIE ", type: "ANTICONDENS, ( m&sup2; )", price: 4.50 },
+    { id: "P157", name: "PLASA ", type: "ARMARE POLISTIREN ( m&sup2; )", price: 4.50 },
+
+    { id: "P158", name: "ETRIER  ", type: " 15x15cm - buc", price: 2.00 },
+    { id: "P159", name: "ETRIER  ", type: " 15x20cm - buc", price: 2.20 },
+    { id: "P160", name: "ETRIER  ", type: " 20x20cm - buc", price: 2.50 },
+    { id: "P161", name: "ETRIER  ", type: " 20x25cm - buc", price: 2.70 },
+    { id: "P162", name: "ETRIER  ", type: " 25x25cm - buc", price: 3.00 },
+    { id: "P163", name: "ETRIER  ", type: " 25x40cm - buc", price: 8.00 },
+
+    { id: "P164", name: "BETON CONCASAT  ", type: " UMPLUTURA ( m&sup3; )", price: 100.00 },
+    { id: "P165", name: "PAMANT  ", type: " EXCAVATIE ( m&sup3; )", price: 50.00 },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
