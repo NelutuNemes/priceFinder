@@ -219,6 +219,9 @@ export const products =
     { id: "P164", name: "BETON CONCASAT  ", type: " UMPLUTURA ( m&sup3; )", price: 100.00 },
     { id: "P165", name: "PAMANT  ", type: " EXCAVATIE ( m&sup3; )", price: 50.00 },
 
+    { id: "P166", name: "ROLA  ", type: " FANTANA, ( buc)", price: 200.00 },
+    { id: "P167", name: "CAPAC ROLA F", type: "Plin, ( buc )", price: 170.00 },
+    { id: "P168", name: "CAPAC ROLA F", type: "Cu orificiu vizitare ( buc)", price: 240.00 },
 
 
 
