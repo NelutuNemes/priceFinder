@@ -75,6 +75,22 @@ table {
   margin-top: 10px;
 }
 
+.col-id {
+  width: 10%;
+}
+
+.col-name {
+  width: 30%;
+}
+
+.col-type {
+  width: 40%;
+}
+
+.col-price {
+  width: 20%;
+}
+
 th, td {
   border: 1px solid var(--table-border);
   padding: 8px;
