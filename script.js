@@ -40,10 +40,10 @@ document.getElementById('search').addEventListener('input', (e) => {
     <table>
       <thead>
         <tr>
-          <th>Cod</th>
-          <th>Denumire</th>
-          <th>Detalii</th>
-          <th>Pret (RON)</th>
+           <th class="col-id">Cod</th>
+           <th class="col-name">Denumire</th>
+           <th class="col-type">Detalii</th>
+           <th class="col-price">Preț (RON)</th>
         </tr>
       </thead>
       <tbody>
