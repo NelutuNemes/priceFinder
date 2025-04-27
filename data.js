@@ -75,7 +75,7 @@ export const products =
     { id: "P058", name: "PLASA SUDATA", type: "&#216;6mm -  (6x2m) (12 m² )", price: 130.00 },
     { id: "P059", name: "PLASA SUDATA", type: "&#216;8mm -  (6x2m) (12 m² )", price: 250.00 },
 
-    { id: "P060", name: "OTEL BETON", type: " OB &#216; 6mm - (p/Kg )", price: 60.00 },
+    { id: "P060", name: "OTEL BETON", type: " OB &#216; 6mm - (p/Kg )", price: 5.50 },
     { id: "P061", name: "OTEL BETON", type: " PC52 &#216; 8mm - (p/bara 6ml)", price: 12.00 },
     { id: "P062", name: "OTEL BETON", type: " PC52 &#216; 10mm - (p/bara 6ml)", price: 18.00 },
     { id: "P063", name: "OTEL BETON", type: " PC52 &#216; 12mm - (p/bara 6ml)", price: 28.00 },
