@@ -188,8 +188,8 @@ export const products =
     { id: "P146", name: "CARTON ASFALT", type: "CATRAN- ( SUL )", price: 70.00 },
     { id: "P143", name: "MEMBRANA BITUMINOASA", type: "HIDROIZOLATIE - ( SUL )", price: 150.00 },
 
-    { id: "P144", name: "CAPAC STALP", type: "LEIER- ( 30x30cm - buc )", price: 35.00 },
-    { id: "P145", name: "CAPAC STALP", type: "LEIER- ( 40x40cm - buc )", price: 45.00 },
+    { id: "P174", name: "CAPAC STALP", type: "LEIER- ( 30x30cm - buc )", price: 35.00 },
+    { id: "P175", name: "CAPAC STALP", type: "LEIER- ( 40x40cm - buc )", price: 45.00 },
     { id: "P144", name: "CAPAC ZID", type: "LEIER- ( 25x49cm - buc )", price: 30.00 },
     { id: "P145", name: "CAPAC ZID", type: "LEIER- ( 30x49cm - buc )", price: 35.00 },
 
