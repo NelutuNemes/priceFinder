@@ -227,6 +227,9 @@ export const products =
 
     { id: "P169", name: "CARAMIDA Refract.", type: "26x12x6 ( buc)", price: 4.50 },
     { id: "P170", name: "MORTAR TENCUIRE", type: "MESTERICA ( SAC 30kg)",  price: 30.00 },
+   
+   
+    { id: "P173", name: "VAR, CIM,ADEZIV", type: "VAR, CIMENT,ADEZIVI (la kg)", price: 3.00 },
 
 
 
