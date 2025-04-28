@@ -223,7 +223,7 @@ export const products =
     { id: "P167", name: "CAPAC ROLA F", type: "Plin, ( buc )", price: 170.00 },
     { id: "P168", name: "CAPAC ROLA F", type: "Cu orificiu vizitare ( buc)", price: 240.00 },
 
-    { id: "P169", name: "CARAMIDA REFRACTARA", type: "26x12x6 ( buc)", price: 4.50 },
+    { id: "P169", name: "CARAMIDA Refract.", type: "26x12x6 ( buc)", price: 4.50 },
     { id: "P170", name: "MORTAR TENCUIRE", type: "MESTERICA ( SAC 30kg)",  price: 30.00 },
 
 
