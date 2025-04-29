@@ -190,7 +190,7 @@ export const products =
 
     { id: "P174", name: "CAPAC STALP", type: "LEIER- ( 30x30cm - buc )", price: 35.00 },
     { id: "P175", name: "CAPAC STALP", type: "LEIER- ( 40x40cm - buc )", price: 45.00 },
-    { id: "P144", name: "CAPAC ZID", type: "LEIER- ( 25x49cm - buc )", price: 30.00 },
+    { id: "P144", name: "CAPAC ZID", type: "LEIER- ( 25x49cm - buc )", price: 35.00 },
     { id: "P145", name: "CAPAC ZID", type: "LEIER- ( 30x49cm - buc )", price: 35.00 },
 
     { id: "P146", name: "TEAVA ", type: "RECTANGULARA- ( 3x6cm - buc -6ml )", price: 120.00 },
