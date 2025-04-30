@@ -231,6 +231,7 @@ export const products =
    
     { id: "P173", name: "VAR, CIM,ADEZIV", type: "VAR, CIMENT,ADEZIVI (la kg)", price: 3.00 },
 
+    { id: "P169", name: "CARAMIDA Refract.", type: "26x12x6 ( palet,387 buc)", price: 1741.50 },
 
 
 
